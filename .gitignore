@@ -9,6 +9,7 @@ links_small.csv
 movies_metadata.csv
 ratings.csv
 ratings_small.csv
+config.py
 
 
 # C extensions
